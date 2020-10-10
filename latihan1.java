@@ -1,6 +1,6 @@
-public class Bismillah{
+class Bismillah{
 
-    public static void main(final args[]) {
-        System.out.println("Bismillah");
+    public static void main(String args[]) {
+        System.out.println("tes gan");
     }
 }
