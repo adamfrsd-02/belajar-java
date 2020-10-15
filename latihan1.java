@@ -1,6 +1,6 @@
 class Bismillah{
 
-    public static void main(String args[]) {
+    static main(String args[]) {
         System.out.println("tes gan");
     }
 }
